@@ -229,22 +229,18 @@ product2.display();
 ![Untitled (2)](https://github.com/snghyun331/study-cs/assets/108854903/b58541f1-7041-4560-9c19-906ca55297af)
 - `Factory(=Creator)`과 `Product`는 **추상화** 인터페이스 파트
 - `ConcreteFactory` `ConcreteFactory2` `ConcreteProduct` `ConcreteProduct2`는 구체적인 **구현** 파트
+
 ※ 그림 출처: 인파 Dev
 
-
 <br/>
+
 ⭐ 이해하기 쉽게 클래스 및 인터페이스의 이름을 수정하면,
 
-> Product → User
+
+> Product → User   
+> ConcreteProduct → NaverUser   
+> ConcreteProducr2 → KakaoUser  
 > 
-> 
-> ConcreteProduct → NaverUser
-> 
-> ConcreteProducr2 → KakaoUser
-> 
-> Factory → UserFactory
-> 
-> ConcreteFactory → NaverUserFactory
-> 
-> ConcreteFactory2 → KakaoUserFactory
->
+> Factory → UserFactory   
+> ConcreteFactory → NaverUserFactory   
+> ConcreteFactory2 → KakaoUserFactory   
