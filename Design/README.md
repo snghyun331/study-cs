@@ -6,7 +6,7 @@
 
 - [x] [추상 팩토리 패턴 (Abstract Factory)](https://github.com/snghyun331/study-cs/blob/main/Design/abstract_factory.md)
 
-- [ ] 전랙 패턴 (Strategy)
+- [x] [전략 패턴 (Strategy)](https://github.com/snghyun331/study-cs/blob/main/Design/strategy.md)
 
 - [ ] 옵저버 패턴 (Observer)
 
