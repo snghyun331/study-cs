@@ -106,8 +106,7 @@ class PaymentContext {
 ## 전략 패턴 흐름 한눈에 보기
 ![Untitled](https://github.com/snghyun331/study-cs/assets/108854903/23a1792c-7e98-4ceb-862b-fa422e4c623e)
 
-
-
+</br>
 
 **<확장 방법>**
 
