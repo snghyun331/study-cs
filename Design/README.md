@@ -1,4 +1,4 @@
-# 디자인 패턴
+# 디자인 패턴 (Typescript 기반)
 ## 목차
 - [x] [싱글톤 패턴 (Singleton)](https://github.com/snghyun331/study-cs/blob/main/Design/singleton.md)
     
