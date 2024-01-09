@@ -52,4 +52,4 @@ const naverUser = naverFactory.newInstance("Naver!");
 const kakaoUser = kakaoFactory.newInstance("Kakao!");
 
 // 네이버 아이디로 가입: 닉네임은 Naver!
-// 카카오 아이디로 가입: 닉네임은 Kakao!
+// 카카오 아이디로 가입: 닉네임은 Kakao! 
