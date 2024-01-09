@@ -8,7 +8,7 @@
 
 - [x] [전략 패턴 (Strategy)](https://github.com/snghyun331/study-cs/blob/main/Design/strategy.md)
 
-- [ ] 옵저버 패턴 (Observer)
+- [x] [옵저버 패턴 (Observer)](https://github.com/snghyun331/study-cs/blob/main/Design/observer.md)
 
 - [ ] 빌더 패턴 (Builder)
 
