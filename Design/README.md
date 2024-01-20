@@ -10,12 +10,10 @@
 
 - [x] [옵저버 패턴 (Observer)](https://github.com/snghyun331/study-cs/blob/main/Design/observer.md)
 
-- [ ] 빌더 패턴 (Builder)
+- [x] [빌더 패턴 (Builder)](https://github.com/snghyun331/study-cs/blob/main/Design/builder.md)
 
-- [ ] 어댑터 패턴
+- [x] [어댑터 패턴 (Adapter)](https://github.com/snghyun331/study-cs/blob/main/Design/adapter.md)
 
 - [ ] 반복자 패턴
-
-- [ ] 커맨드 패턴
 
 - [ ] MVC 패턴
