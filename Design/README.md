@@ -14,6 +14,4 @@
 
 - [x] [어댑터 패턴 (Adapter)](https://github.com/snghyun331/study-cs/blob/main/Design/adapter.md)
 
-- [ ] 반복자 패턴
-
 - [ ] MVC 패턴
